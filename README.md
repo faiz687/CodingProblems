@@ -1,2 +1,2 @@
 # CodingProblems
-Solution for hacker rank and leet code problems.
+Solution for hacker rank and leet code problems or challenges.
